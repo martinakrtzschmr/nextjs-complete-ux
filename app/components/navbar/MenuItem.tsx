@@ -1,3 +1,5 @@
+// FIXME: Remove use client and useState so NextJs can render this files on the server
+
 'use client';
 
 interface MenuItemProps {

@@ -1,4 +1,6 @@
-import React from 'react';
+// FIXME: Remove use client and useState so NextJs can render this files on the server
+
+'use client';
 
 interface ContainerProps {
   children: React.ReactNode;
